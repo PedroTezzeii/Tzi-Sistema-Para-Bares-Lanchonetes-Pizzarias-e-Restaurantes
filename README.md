@@ -12,6 +12,7 @@ Dashboard do Proprietario
 
 
 .: ACESSOS :.
+link: https://www.tzisofts.com.br/tzi1.resserver/index.php
 
 Garcom:
 email: garcom@tzisofts.com.br
